@@ -1,0 +1,6 @@
+{
+  "name": "MathMaster Pro",
+  "description": "Interactive mathematics platform specializing in middle school algebra practice, interactive quizzes, automated feedback, student leaderboards, teacher dashboards, and 200+ math tools with offline access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
